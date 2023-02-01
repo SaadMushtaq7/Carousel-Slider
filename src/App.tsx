@@ -1,0 +1,13 @@
+import React from "react";
+import "./App.css";
+import CarouselSlider from "./components/CarouselSlider/CarouselSlider";
+
+function App() {
+  return (
+    <div className="App">
+      <CarouselSlider />
+    </div>
+  );
+}
+
+export default App;

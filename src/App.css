@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #26213D;
+}
+
+.swiper-button-next:after, .swiper-button-prev:after{
+  color: white;
+}
+
+.swiper-pagination-bullet-active {
+background: white!important;
+}
